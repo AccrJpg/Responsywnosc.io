@@ -1,0 +1,28 @@
+
+h3{
+    text-align: center;
+}
+
+.icons,
+.circle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.margin {
+    color: orange;
+    background-color: rgb(216, 216, 216);
+}
+
+hr{
+    max-width: 300px;
+}
+
+.circle {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: rgb(216, 216, 216);
+}
